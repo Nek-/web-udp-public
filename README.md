@@ -16,6 +16,7 @@ Spread the word, [RT's](https://twitter.com/mrmaxm/status/890256659607584768) ar
   - [1. WebSockets UDP (or alternative) Extension](#1-websockets-udp-or-alternative-extension)
   - [2. WebUDP (or alternative) - new simple API](#2-webudp-or-alternative---new-simple-api)
   - [3. WebRTC 2.0 - simplified](#3-webrtc-20---simplified)
+  - [4. WebTransport](#4-webtransport)
 - [Requirements](#requirements)
 - [Security](#security)
 - [Transport Protocols](#transport-protocols)
